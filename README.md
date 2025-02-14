@@ -20,7 +20,7 @@ This project presents a dynamic and interactive performance report using Power B
 
 **Scatter Chart**: Segmented accounts based on profitability (GP% vs Quantity).
 
-**Tools Used**:
+## Tools Used:
 
 **Power BI**: Created interactive dashboards and visualizations.
 
